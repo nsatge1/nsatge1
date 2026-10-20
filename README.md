@@ -2,7 +2,7 @@
 
 Cybersecurity engineer moving into **cloud security**.
 Double master's degree in cybersecurity (Bordeaux INP, France, and UQAC, Canada).
-Internship in cybersecurity and IT audit at Carrefour. Based in Toronto.
+Internship in cybersecurity and IT audit at Carrefour.
 
 **Focus:** AWS security · Infrastructure as code · Detection engineering · DevSecOps
 
